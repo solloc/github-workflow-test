@@ -1,0 +1,5 @@
+services:
+  app:
+    image: "github-workflow-test"
+    ports:
+      - "3000:3000"
