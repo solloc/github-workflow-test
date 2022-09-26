@@ -1,5 +1,8 @@
 # github-workflow-test
-GitHub workflow quickstart
+
+GitHub workflow quickstart. 
+
+Test docker image build, tagging and push
 
 ## Test
 
